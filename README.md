@@ -8,7 +8,7 @@ O projeto contém a documentação do código-fonte (Javadoc), que está contida
 
 No repositório do projeto contém o postman colection para que possa testar os recursos da API Rest. (character-potter-api/postman-collection)
 
-Para que seja possível montar o ambiente de execução da aplicação com ambiente docker, execute os seguintes passos:
+Para que seja possível executar a aplicação com ambiente docker, execute os seguintes passos:
 
 1- Baixe a imagem da aplicação <br/>
 $ docker pull guilhermeoliveira1992/character-potter-api:latest
