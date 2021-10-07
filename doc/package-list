@@ -1,0 +1,9 @@
+personspotterapi.personPotterApi
+personspotterapi.personPotterApi.configuration
+personspotterapi.personPotterApi.controller
+personspotterapi.personPotterApi.dto
+personspotterapi.personPotterApi.entity
+personspotterapi.personPotterApi.modelRequest
+personspotterapi.personPotterApi.repository
+personspotterapi.personPotterApi.service
+personspotterapi.personPotterApi.validation
