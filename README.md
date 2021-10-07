@@ -2,7 +2,7 @@
 
 Esse projeto consiste em uma API Rest Java Spring Boot no qual permite criar, ler, consultar e excluir personagens do filme Harry Potter. Foi utilizado o banco de dados relacional em memória H2.
 
-O projeto contém testes unitários automatizados utilizando o framework Junit e suas devidas implementações estão contidas no pacote de testes da aplicação (test/java/personspotterapi/personPotterApi)
+O projeto contém testes unitários utilizando o framework Junit, suas devidas implementações estão contidas no pacote de testes da aplicação (test/java/personspotterapi/personPotterApi)
 
 O projeto contém a documentação do código-fonte (Javadoc), que está contida na pasta "character-potter-api/doc" do repositório.
 
